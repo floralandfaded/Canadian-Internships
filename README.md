@@ -24,7 +24,7 @@ To contribute:
 |Siemens| Oakville,ON(Remote)| **[Closed]** ~~Engineering/Programming Co-op (Computer Science)~~ 
 |Mackenzie Financial Corporation| Toronto,ON| **[Closed]** ~~[SOC Analyst Intern (Security Engineering)]~~| Winter
 |Kepler Communications| Toronto, ON| [Embedded Software Engineering Intern](https://jobs.lever.co/kepler/9199ebb4-896d-4b88-95bd-2d1d1af40fee)| Winter| 4-16 months
-|Celestica International Inc.| Toronto, ON| [Operations Engineering Intern](https://careers.celestica.com/job/Toronto-Student-Intern-IL-ON/850373101/)| Summer| 16 months
+|Celestica International Inc.| Toronto, ON| **[Closed]** ~~[Operations Engineering Intern](https://careers.celestica.com/job/Toronto-Student-Intern-IL-ON/850373101/)~~| Summer| 16 months
 | Konrad| Toronto, ON| [Software Developer Intern](https://boards.greenhouse.io/konradgroup/jobs/5268040003)| Summer| 4 months
 | Tesla| Richmond Hill, ON| [Controls Software Automation Engineer](https://www.tesla.com/en_CA/careers/search/job/tesla-toronto-controls-software-automation-engineering-internship-co-op-summer-2023-159049)| Summer
 | Microsoft| Vancouver, BC| [Software Engineering](https://careers.microsoft.com/us/en/job/1368428/Software-Engineering-Intern-Opportunities-for-University-Students-Canada) 
